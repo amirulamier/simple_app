@@ -1,2 +1,2 @@
 # simple_app
-this is a simple app usiNg python code + streamlit
+this is a simple app using python code + streamlit
